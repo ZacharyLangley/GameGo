@@ -1,0 +1,1 @@
+export const FormatPrice = (price?: number | string) => `$${price}`;

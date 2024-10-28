@@ -1,0 +1,1 @@
+export type CardType = 'visa' | 'master-card' | 'american-express' | 'diners-club' | 'discover' | 'jcb' | 'unionpay' | 'maestro'
